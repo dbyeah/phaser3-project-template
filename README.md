@@ -53,3 +53,8 @@ After you run the `npm run build` command, your code will be built into a single
 
 If you put the contents of the `dist` folder in a publicly-accessible location (say something like `http://mycoolserver.com`), 
 you should be able to open `http://mycoolserver.com/index.html` and play your game.
+
+### Awesome project!
+I'm just adding some basics to allow for multiple scenes and some minor configuration issues to make it a little more generic for my needs/taste - adds two basic scenes: loading & play and adds the import management & pattern for adding more. 
+
+More to come.
