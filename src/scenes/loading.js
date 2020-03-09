@@ -10,7 +10,7 @@ class Loading extends Phaser.Scene {
     let timeout = setTimeout(() => {
       this.scene.start('playGame')
       clearTimeout(timeout)
-    }, 5000)
+    }, 3000)
   }
 }
 
